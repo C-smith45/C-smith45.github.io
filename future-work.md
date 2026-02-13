@@ -6,9 +6,8 @@ Projects I want to build:
 
 
 
-\- App ideas
+\- Applications
 
 \- Games
 
 \- Websites
-
