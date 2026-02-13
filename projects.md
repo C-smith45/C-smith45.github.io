@@ -6,7 +6,7 @@
 
 Mandelbrot design
 
-!\[Mandelbrot](mandelbrot.png)
+![Mandelbrot](mandelbrot.png)
 
 
 
