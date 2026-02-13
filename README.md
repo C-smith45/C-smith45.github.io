@@ -6,7 +6,7 @@
 
 # I'm learning programming and building projects.
 
-# 
+# I'm a computer science major and track & field athlete at UW-Eau Claire.
 
 # Welcome to my website!
 
