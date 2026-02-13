@@ -3,7 +3,6 @@
 
 
 \## Project 1
-
 Mandelbrot design<p></p>
 ![Mandelbrot](mandelbrot.png)
 
