@@ -8,5 +8,4 @@ Mandelbrot design<p></p>
 
 \## Project 2
 
-Description of your project.
-
+Nothing here yet.
