@@ -5,10 +5,7 @@
 \## Project 1
 
 Mandelbrot design
-
 ![Mandelbrot](mandelbrot.png)
-
-
 
 \## Project 2
 
