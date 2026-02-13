@@ -16,9 +16,9 @@
 
 
 
-\- \[Projects](projects.md)
+\[Projects](projects.md)
 
-\- \[Future Work](future-work.md)
+\[Future Work](future-work.md)
 
-\- \[Contact](contact.md)
+\[Contact](contact.md)
 
